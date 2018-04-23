@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/bafzali/liri-node-app#readme",
   "dependencies": {
-    "npm": "^5.8.0"
+    "dotenv": "^5.0.1",
+    "file-system": "^2.2.2",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^5.8.0",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
   }
 }
